@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ed47332-5d94-4d5d-a236-03fd000efd33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.6.3" />
+        <option name="updateIndicesOnProjectOpen" value="false" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectId" id="1j8Uf6k7Yt8ZV9h5doGyb8n8B7J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue-admin-template" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaCode\VueCode\vue-front-1010\node_modules\vue-awesome-swiper" />
+      <recent name="D:\JavaCode\VueCode\vue-front-1010\node_modules" />
+      <recent name="D:\JavaCode\VueCode\vue-front-1010\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ed47332-5d94-4d5d-a236-03fd000efd33" name="Default Changelist" comment="" />
+      <created>1603185312272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603185312272</updated>
+      <workItem from="1603185313682" duration="6104000" />
+      <workItem from="1603242905313" duration="7170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="278" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603186551098">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="479" y="278" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1603186551098" />
+    <state x="805" y="378" key="FileChooserDialogImpl" timestamp="1603242979918">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="805" y="378" key="FileChooserDialogImpl/0.0.2048.1240@0.0.2048.1240" timestamp="1603242979918" />
+    <state width="2004" height="275" key="GridCell.Tab.0.bottom" timestamp="1603335700934">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="2004" height="275" key="GridCell.Tab.0.bottom/0.0.2048.1240@0.0.2048.1240" timestamp="1603335700934" />
+    <state width="2004" height="275" key="GridCell.Tab.0.center" timestamp="1603335700933">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="2004" height="275" key="GridCell.Tab.0.center/0.0.2048.1240@0.0.2048.1240" timestamp="1603335700933" />
+    <state width="2004" height="275" key="GridCell.Tab.0.left" timestamp="1603335700933">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="2004" height="275" key="GridCell.Tab.0.left/0.0.2048.1240@0.0.2048.1240" timestamp="1603335700933" />
+    <state width="2004" height="275" key="GridCell.Tab.0.right" timestamp="1603335700933">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="2004" height="275" key="GridCell.Tab.0.right/0.0.2048.1240@0.0.2048.1240" timestamp="1603335700933" />
+    <state x="717" y="448" key="com.intellij.ide.util.TipDialog" timestamp="1603242911946">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="717" y="448" key="com.intellij.ide.util.TipDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1603242911946" />
+  </component>
+</project>
