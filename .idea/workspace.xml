@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ed47332-5d94-4d5d-a236-03fd000efd33" name="Default Changelist" comment="" />
+    <list default="true" id="6ed47332-5d94-4d5d-a236-03fd000efd33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -43,6 +48,7 @@
     <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
   </component>
   <component name="ProjectId" id="1j8Uf6k7Yt8ZV9h5doGyb8n8B7J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,14 +56,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue-admin-template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -89,22 +96,33 @@
       <option name="presentableId" value="Default" />
       <updated>1603185312272</updated>
       <workItem from="1603185313682" duration="6104000" />
-      <workItem from="1603242905313" duration="7170000" />
+      <workItem from="1603242905313" duration="9006000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="479" y="278" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603186551098">
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
     <state x="479" y="278" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1603186551098" />
-    <state x="805" y="378" key="FileChooserDialogImpl" timestamp="1603242979918">
+    <state x="625" y="214" key="CommitChangelistDialog2" timestamp="1603337290354">
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
-    <state x="805" y="378" key="FileChooserDialogImpl/0.0.2048.1240@0.0.2048.1240" timestamp="1603242979918" />
+    <state x="625" y="214" key="CommitChangelistDialog2/0.0.2048.1240@0.0.2048.1240" timestamp="1603337290354" />
+    <state x="805" y="378" key="FileChooserDialogImpl" timestamp="1603337435652">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="805" y="378" key="FileChooserDialogImpl/0.0.2048.1240@0.0.2048.1240" timestamp="1603337435652" />
+    <state x="880" y="516" key="Github.ShareDialog" timestamp="1603337557166">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="880" y="516" key="Github.ShareDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1603337557166" />
     <state width="2004" height="275" key="GridCell.Tab.0.bottom" timestamp="1603335700934">
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
@@ -121,9 +139,17 @@
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
     <state width="2004" height="275" key="GridCell.Tab.0.right/0.0.2048.1240@0.0.2048.1240" timestamp="1603335700933" />
+    <state x="528" y="265" key="SettingsEditor" timestamp="1603337713137">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="528" y="265" key="SettingsEditor/0.0.2048.1240@0.0.2048.1240" timestamp="1603337713137" />
     <state x="717" y="448" key="com.intellij.ide.util.TipDialog" timestamp="1603242911946">
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
     <state x="717" y="448" key="com.intellij.ide.util.TipDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1603242911946" />
+    <state x="841" y="499" key="git4idea.rebase.GitRebaseDialog" timestamp="1603336482995">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="841" y="499" key="git4idea.rebase.GitRebaseDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1603336482995" />
   </component>
 </project>
