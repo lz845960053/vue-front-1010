@@ -193,5 +193,22 @@
   </div>
 </template>
 <script>
-  export default {};
+  export default {
+    data(){
+      return{
+        //讲师列表
+        teacherList:[],
+
+
+      }
+    },
+    created() {
+    },
+    mounted() {
+    },
+    methods:{
+      //分页获取讲师的列表信息
+
+    }
+  };
 </script>
